@@ -1,0 +1,16 @@
+﻿.venv/
+__pycache__/
+*.pyc
+
+# local secrets
+.env
+*.env
+.env.*.local
+
+# outputs
+*.mp4
+*.wav
+*.mp3
+frames/
+output/
+cache/
